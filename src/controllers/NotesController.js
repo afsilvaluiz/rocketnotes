@@ -68,7 +68,10 @@ class NotesController{
       .select([
         "notes.id",
         "notes.title",
+        "notes.description",
         "notes.user_id",
+        "notes.created_at",
+        "notes.updated_at",
       ])
       .where("notes.user_id", user_id)
       .whereLike("notes.title", `%${title}%`)
