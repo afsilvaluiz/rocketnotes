@@ -2,14 +2,25 @@ const AppError = require("../utils/AppError")
 
 const { default: test } = require("node:test")
 
+const sqliteConnection = require('../database/sqlite')
+
 class UsersController {
-  create(request, response) {
+  async create(request, response) {
     const { name, email, password } = request.body
-    if (!name) {
-      throw new AppError("Name is a required field!")
+
+    const database = await sqliteConnection()
+    const checkUserExists = await database.get("SELECT * FROM users WHERE email = (?)", [email])
+
+    if(checkUserExists){
+      throw new AppError("This email is already in use.")
     }
 
-    response.status(201).json({ name, email, password })
+    await database.run(
+      "INSERT INTO users (name, email, password) VALUES (?, ?, ?)",
+      [ name, email, password ]
+      )
+
+    return response.status(201).json()
   }
 }
 
