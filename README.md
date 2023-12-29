@@ -91,6 +91,12 @@ The following tools were used in the construction of the project:
 
 <img alt="" src="https://avatars.githubusercontent.com/u/60669846?v=4" width="100" />
 
+## 📝 License
+
+This project is under the MIT license. See the [LICENSE](./LICENSE) file for more information
+
+Made with 💜 by Luiz Silva 👋🏽
+
 
 
 
