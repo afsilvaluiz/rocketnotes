@@ -13,11 +13,11 @@
   <a href="https://github.com/afsilvaluiz/rocketnotes-backend/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/afsilvaluiz/rocketnotes-backend">
   </a>
-
-    [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]
-
+  
    <a href="https://github.com/afsilvaluiz/rocketnotes-backend/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/afsilvaluiz/rocketnotes-backend?style=social">
   </a>
+
+    [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 </p>
 
