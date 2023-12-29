@@ -70,6 +70,6 @@ It should be noted that this project is part of Rocketseat's Explorer trail/cour
 
 The following tools were used in the construction of the project:
 
-<code><img title="Express" alt="express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
+<code><img title="Express" alt="express" width="30px" src="https://skillicons.dev/icons?i=express" /></code>
 
 
