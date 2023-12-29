@@ -73,6 +73,7 @@ The following tools were used in the construction of the project:
 <code> <span>Server:</span> <img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code><br></br>
 <code><img title="Express" alt="express" width="30px" src="https://skillicons.dev/icons?i=express" /></code>
 <code><img title="Nodemon" alt="nodemon" width="30px" src=".github/nodemon.svg" /></code>
+<code><img title="Express-async-error" alt="expresserror" width="30px" src=".github/expresserror.svg" /></code>
 <code><img title="Knex" alt="knex" width="30px" src=".github/knex.svg" /></code>
 <code><img title="PostgreSQL" alt="postgresql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
 <code><img title="SQLite" alt="sqlite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></code>
