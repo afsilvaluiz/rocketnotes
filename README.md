@@ -81,6 +81,7 @@ The following tools were used in the construction of the project:
 <code><img title="BcryptJS" alt="bcryptjs" width="30px" src=".github/bcryptjs.svg" /></code>
 <code><img title="JWT" alt="jwt" width="30px" src=".github/jwt.svg" /></code>
 <code><img title="Multer" alt="multer" width="30px" src=".github/multer.svg" /></code>
+<code><img title="PM2" alt="pm2" width="30px" src=".github/pm2.svg" /></code>
 <code><img title="Jest" alt="jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></code>
 
 
