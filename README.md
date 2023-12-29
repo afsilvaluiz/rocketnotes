@@ -89,9 +89,8 @@ The following tools were used in the construction of the project:
 
 ## ✍ Author
 
-<a style="max-width: 100%
-<img alt="Github" title="Github" src="https://github.com/afsilva.png" width="100px" >
-</a>
+ <img style="max-width: 100%" alt="Github" title="Github" src="https://github.com/afsilvaluiz.png" width="100px" >
+
 
 ## 📝 License
 
