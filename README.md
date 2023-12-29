@@ -77,6 +77,7 @@ The following tools were used in the construction of the project:
 <code><img title="Knex" alt="knex" width="30px" src=".github/knex.svg" /></code>
 <code><img title="PostgreSQL" alt="postgresql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
 <code><img title="SQLite" alt="sqlite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></code>
+<code><img title="Cors" alt="cors" width="30px" src=".github/CORS.svg" /></code>
 <code><img title="Dotenv" alt="dotenv" width="30px" src=".github/dotenv.svg" /></code>
 <code><img title="BcryptJS" alt="bcryptjs" width="30px" src=".github/bcryptjs.svg" /></code>
 <code><img title="JWT" alt="jwt" width="30px" src=".github/jwt.svg" /></code>
