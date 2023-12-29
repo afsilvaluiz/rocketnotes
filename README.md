@@ -89,7 +89,7 @@ The following tools were used in the construction of the project:
 
 ## ✍ Author
 
-<img alt="" src="https://avatars.githubusercontent.com/u/60669846?v=4" width="100" />
+<img alt="Github" title="Github" src="https://github.com/afsilvaluiz.png" width="100px" style:max-width: 100%;>
 
 ## 📝 License
 
