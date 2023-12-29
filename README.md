@@ -25,3 +25,22 @@
 	◌ Loading the application ◌
 </h4>
 
+<p align="center">
+ <a href="#-about">About</a> |
+ <a href="#-deploy">Deploy</a> | 
+ <a href="#-how-it-works">How It Works</a> | 
+ <a href="#-technologies">Technologies</a> | 
+ <a href="#-author">Author</a> | 
+ <a href="#-license">License</a>
+</p>
+
+## 💻 About
+
+This is the repository for the backend of the Rocketnotes application, which works in conjunction with the corresponding frontend.
+
+Rocketnotes is a web application that allows users to register and organize notes on various subjects in detail, including titles, descriptions, links and tags for each note. 
+
+It also offers profile editing features, allowing users to change their avatar, name, e-mail address and password, among other features. 
+
+It should be noted that this project is part of Rocketseat's Explorer trail/courses. 
+
