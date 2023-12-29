@@ -87,6 +87,14 @@ The following tools were used in the construction of the project:
 
 > For more details of the application's general dependencies, see the file [package.json](./package.json)
 
+## ✍ Author
+
+<img alt="Perfil Github" title="Github" src="https://github.com/afsilvaluiz.png" width="100px" />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Luiz_Silva-blue?style=flat-square/)
+
+
+
 
  
 
