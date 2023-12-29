@@ -45,7 +45,9 @@ It should be noted that this project is part of Rocketseat's Explorer trail/cour
 
 ## ⚙️ How it works
 
-### Routes
+
+###  🔀 Routes
+
 
 | Method | Route	| Description	| Parameters | Observations |
 | --- | --- | --- | --- | --- |
@@ -61,9 +63,13 @@ It should be noted that this project is part of Rocketseat's Explorer trail/cour
 | GET | /tags | Return tags created by a user | `token` | send authentication `token` in `header` |
 | GET | /files/:filename | Returns avatar files | `filename` | send `filename` by route |
 
-> Note: all parameters sent and responded to in the request and response body are in `JSON` format.
-
+> Note: All parameters sent and received in the request and response body are in `JSON` format."
 ---
 
+## 🛠 Technologies
+
+The following tools were used in the construction of the project:
+
+<code><img title="Express" alt="express" width="30px" src="src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
 
 
