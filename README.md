@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src=".github/api.svg" title="Rocketnotes" alt="" width="45px" />
+    <img src=".github/api.svg" title="Rocketnotes" alt="" width="45px" />   
     Rocketnotes API
 </h1>
 
@@ -71,5 +71,12 @@ It should be noted that this project is part of Rocketseat's Explorer trail/cour
 The following tools were used in the construction of the project:
 
 <code><img title="Express" alt="express" width="30px" src="https://skillicons.dev/icons?i=express" /></code>
+<code><img title="PostgreSQL" alt="postgresql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
+<code><img title="SQLite" alt="sqlite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></code>
+<code><img title="Jest" alt="jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></code>
+<code><img title="Nodemon" alt="nodemon" width="30px" src=".github/nodemon.svg"" /></code>
+
+ 
+
 
 
