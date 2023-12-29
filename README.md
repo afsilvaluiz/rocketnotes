@@ -85,6 +85,8 @@ The following tools were used in the construction of the project:
 <code><img title="PM2" alt="pm2" width="30px" src=".github/pm2.svg" /></code>
 <code><img title="Jest" alt="jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></code>
 
+> For more details of the application's general dependencies, see the file [package.json](./package.json)
+
 
  
 
