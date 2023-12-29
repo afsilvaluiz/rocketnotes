@@ -71,6 +71,7 @@ It should be noted that this project is part of Rocketseat's Explorer trail/cour
 The following tools were used in the construction of the project:
 
 <code> #### Server <img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+
 <code><img title="Express" alt="express" width="30px" src="https://skillicons.dev/icons?i=express" /></code>
 <code><img title="Nodemon" alt="nodemon" width="30px" src=".github/nodemon.svg" /></code>
 <code><img title="Knex" alt="knex" width="30px" src=".github/knex.svg" /></code>
