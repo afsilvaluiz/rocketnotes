@@ -74,7 +74,7 @@ The following tools were used in the construction of the project:
 <code><img title="PostgreSQL" alt="postgresql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
 <code><img title="SQLite" alt="sqlite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></code>
 <code><img title="Jest" alt="jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></code>
-<code><img title="Nodemon" alt="nodemon" width="30px" src=".github/nodemon.svg"" /></code>
+<code><img title="Nodemon" alt="nodemon" width="30px" src=".github/nodemon.svg" /></code>
 
  
 
