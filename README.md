@@ -14,7 +14,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/afsilvaluiz/rocketnotes-backend">
   </a>
     
-   <img alt="License" src="https://img.shields.io/github/LICENSE/afsilvaluiz/rocketnotes-backend">
+   <img alt="License" src="https://img.shields.io/github/license/afsilvaluiz/rocketnotes-backend">
 
    <a href="https://github.com/afsilvaluiz/rocketnotes-backend/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/afsilvaluiz/rocketnotes-backend?style=social">
