@@ -78,6 +78,7 @@ The following tools were used in the construction of the project:
 <code><img title="SQLite" alt="sqlite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></code>
 <code><img title="Dotenv" alt="dotenv" width="30px" src=".github/dotenv.svg" /></code>
 <code><img title="JWT" alt="jwt" width="30px" src=".github/jwt.svg" /></code>
+<code><img title="Multer" alt="multer" width="30px" src=".github/multer.svg" /></code>
 <code><img title="Jest" alt="jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></code>
 
 
