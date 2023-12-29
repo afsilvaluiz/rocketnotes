@@ -14,7 +14,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/afsilvaluiz/rocketnotes-backend">
   </a>
 
-  <[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)>
+  (https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
    <a href="https://github.com/afsilvaluiz/rocketnotes-backend/stargazers">
