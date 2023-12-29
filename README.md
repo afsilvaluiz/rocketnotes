@@ -27,7 +27,6 @@
 
 <p align="center">
  <a href="#-about">About</a> |
- <a href="#-deploy">Deploy</a> | 
  <a href="#-how-it-works">How It Works</a> | 
  <a href="#-technologies">Technologies</a> | 
  <a href="#-author">Author</a> | 
@@ -43,4 +42,28 @@ Rocketnotes is a web application that allows users to register and organize note
 It also offers profile editing features, allowing users to change their avatar, name, e-mail address and password, among other features. 
 
 It should be noted that this project is part of Rocketseat's Explorer trail/courses. 
+
+## ⚙️ How it works
+
+### Routes
+
+| Method | Route	| Description	| Parameters | Observations |
+| --- | --- | --- | --- | --- |
+| POST | /sessions | Returns the authentication data of an existing user | `email`, `password` | Send parameters in `body` | 
+| GET	| /users	| Return a specific user	| `token` |	send `token` de authentication in `header` |
+| POST | /users | Create a new user | `name`, `email`, `password` | send parameters in the `body` of the request |
+| PUT | /users | Update a specific user | `token`, `name`, `email`, `password`, `newPassword`(optional) | send `token` in the `header` and the rest in the `body` |
+| PATCH | /users/avatar | Update the avatar of a specific user | `token`, `avatar` | send `token` via `header` and the `avatar` in `multipart` format |
+| GET | /notes | Return all notes for a user | `token` | send `token` authentication in `header` |
+| GET | /notes:id | Return a specific note | `id`, `token` | send `token` by `header` and `id` by route |
+| POST | /notes | Create a note | `title`, `description`, `tags`(array, optional), `links`(array, optional) | send `token` by `header` and the rest in `body` |
+| DELETE | /notes/:id | Delete a specific note | `id`, `token` | send `token` via `header` and `id` via route |
+| GET | /tags | Return tags created by a user | `token` | send authentication `token` in `header` |
+| GET | /files/:filename | Returns avatar files | `filename` | send `filename` by route |
+
+> Note: all parameters sent and responded to in the request and response body are in `JSON` format.
+
+---
+
+
 
