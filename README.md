@@ -87,7 +87,7 @@ The following tools were used in the construction of the project:
 
 > For more details of the application's general dependencies, see the file [package.json](./package.json)
 
-## ✍ Author
+## 🧑🏻‍💻 Author
 
  <img alt="Github" title="Github" src="https://github.com/afsilvaluiz.png" width="100px" >
 
