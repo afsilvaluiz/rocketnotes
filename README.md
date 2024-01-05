@@ -43,7 +43,7 @@ It also offers profile editing features, allowing users to change their avatar, 
 
 It should be noted that this project is part of Rocketseat's Explorer trail/courses. 
 
-## ⚙️ How it works
+## 🧰 How it works
 
 
 ###  🔀 Routes
