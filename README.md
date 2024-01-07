@@ -22,11 +22,12 @@
 </p>
 
 <h4 align="center"> 
-	◌ Loading the application ◌
+	🚀 Application completed 🚀
 </h4>
 
 <p align="center">
  <a href="#-about">About</a> |
+ <a href="#-deploy">Deploy</a> |
  <a href="#-how-it-works">How It Works</a> | 
  <a href="#-technologies">Technologies</a> | 
  <a href="#-author">Author</a> | 
@@ -41,9 +42,52 @@ Rocketnotes is a web application that allows users to register and organize note
 
 It also offers profile editing features, allowing users to change their avatar, name, e-mail address and password, among other features. 
 
-It should be noted that this project is part of Rocketseat's Explorer trail/courses. 
+It should be noted that this project is part of Rocketseat's Explorer trail/courses.
+
+## 🔗 Deploy
+
+To access the application's website deployment, click on the following link: [Link](https://minerocketnotes.netlify.app/)
+
+> Note: the application may take a while to start running after a while, due to the back-end running through the free plan on the hosting platform.
+
 
 ## 🧰 How it works
+
+### Requirements
+
+Before downloading the project you will need to have the following tools installed on your machine:
+
+* [Git](https://git-scm.com)
+* [NodeJS](https://nodejs.org/en/)
+* [Yarn](https://yarnpkg.com/) or [NPM](https://www.npmjs.com/)
+
+In addition, it is good to have an editor to work with the code such as [VSCode](https://code.visualstudio.com/)
+
+### 🎲 Running the Backend (server)
+
+```bash
+# Clone this repository
+$ git clone git@github.com:afsilvaluiz/rocketnotes-backend.git
+
+# Access the project folder in the terminal/cmd
+$ cd rocketnotes-backend
+
+# Configure the environment variables in an .env file at the root of the project (use the .env.example file as a base)
+
+# Install the dependencies
+$ npm install
+
+# Run the migrations
+$ npm run migrate:dev
+
+# Run the application in development mode
+$ npm run dev
+
+# The server will start on port:3333 - go to http://localhost:3333
+
+# Run tests (if desired)
+$ npm test
+```
 
 
 ###  🔀 Routes
