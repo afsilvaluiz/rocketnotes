@@ -61,9 +61,8 @@ Before downloading the project you will need to have the following tools install
 * [NodeJS](https://nodejs.org/en/)
 * [Yarn](https://yarnpkg.com/) or [NPM](https://www.npmjs.com/)
 
-In addition, it is good to have an editor to work with the code such as [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Running the Backend (server)
+### 🗄️ Running the Backend (server)
 
 ```bash
 # Clone this repository
